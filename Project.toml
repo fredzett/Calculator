@@ -1,0 +1,4 @@
+name = "Calculator"
+uuid = "0cc7c23a-e3c2-42d3-9209-ff150712e736"
+authors = ["fredzett <felix.zeidler@gmail.com>"]
+version = "0.1.0"
