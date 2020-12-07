@@ -1,4 +1,4 @@
-module Calculator2
+module Calculator
 
 export greet
 
